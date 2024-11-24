@@ -1,0 +1,201 @@
+movieId,movieName,director,category,imdb_rating
+0,Jumanji,Joe Johnston,"Adventure, Comedy, Family",7.1
+1,Grumpier Old Men,Howard Deutch,"Comedy, Romance",6.7
+2,Waiting to Exhale,Forest Whitaker,"Comedy, Drama, Romance",6.0
+3,Father of the Bride Part II,Charles Shyer,"Comedy, Family, Romance",6.1
+4,Heat,Michael Mann,"Action, Crime, Drama",8.3
+5,Sabrina,Sydney Pollack,"Comedy, Drama, Romance",6.3
+6,Tom and Huck,Peter Hewitt,"Adventure, Comedy, Drama",5.5
+7,Sudden Death,Peter Hyams,"Action, Crime, Thriller",5.8
+8,GoldenEye,Martin Campbell,"Action, Adventure, Thriller",7.2
+9,American President,Rob Reiner,"Comedy, Drama, Romance",6.8
+10,Dracula: Dead and Loving It,Mel Brooks,"Comedy, Fantasy, Horror",5.8
+11,Nixon,Oliver Stone,"Biography, Drama, History",7.1
+12,Cutthroat Island,Renny Harlin,"Action, Adventure, Comedy",5.7
+13,Casino,Martin Scorsese,"Crime, Drama",8.2
+14,Sense and Sensibility,Ang Lee,"Drama, Romance",7.7
+15,Ace Ventura: When Nature Calls,Steve Oedekerk,"Adventure, Comedy, Crime",6.4
+16,Money Train,Joseph Ruben,"Action, Comedy, Crime",5.7
+17,Get Shorty,Barry Sonnenfeld,"Comedy, Crime, Thriller",6.9
+18,Powder,Victor Salva,"Drama, Fantasy, Mystery",6.6
+19,Leaving Las Vegas,Mike Figgis,"Drama, Romance",7.5
+20,Othello,Oliver Parker,"Drama, Romance",6.8
+21,Now and Then,Lesli Linka Glatter,"Comedy, Drama, Romance",6.8
+22,Persuasion,Roger Michell,"Drama, Romance",7.7
+23,The City of Lost Children,"Marc Caro, Jean-Pierre Jeunet","Adventure, Drama, Fantasy",7.5
+24,Shanghai Triad (Yao a yao yao dao waipo qiao),Yimou Zhang,"Crime, Drama, History",7.1
+25,Dangerous Minds,John N. Smith,"Biography, Drama",6.5
+26,Twelve Monkeys,"Keith Fulton, Louis Pepe",Documentary,7.6
+27,Wings of Courage,Jean-Jacques Annaud,"Adventure, Romance",6.4
+28,Carrington,Christopher Hampton,"Biography, Drama, Romance",6.8
+29,Dead Man Walking,Tim Robbins,"Crime, Drama",7.5
+30,It Takes Two,Andy Tennant,"Comedy, Family, Romance",5.9
+31,Clueless,Amy Heckerling,"Comedy, Romance",6.9
+32,Cry,Kimberly Peirce,"Biography, Crime, Drama",7.5
+33,Richard III,Richard Loncraine,"Drama, Sci-Fi, War",7.3
+34,Dead Presidents,"Albert Hughes, Allen Hughes","Action, Crime, Drama",6.9
+35,Restoration,Michael Hoffman,"Biography, Drama, History",6.6
+36,Mortal Kombat,Paul W.S. Anderson,"Action, Adventure, Fantasy",5.8
+37,To Die For,Gus Van Sant,"Comedy, Crime, Drama",6.8
+38,How to Make an American Quilt,Jocelyn Moorhouse,"Comedy, Drama, Romance",6.3
+39,When Night Is Falling,Patricia Rozema,"Drama, Romance",6.5
+40,Guardian Angel,Richard W. Munchkin,"Action, Drama, Thriller",5.0
+41,Mighty Aphrodite,Woody Allen,"Comedy, Fantasy, Romance",7.0
+42,Lamerica,Gianni Amelio,"Comedy, Drama",7.4
+43,Georgia,Ulu Grosbard,"Drama, Music",6.5
+44,Kids of the Round Table,Robert Tinnell,"Adventure, Comedy, Family",5.1
+45,Home for the Holidays,Jodie Foster,"Comedy, Drama, Romance",6.6
+46,Postino  Il (The Postman),"Michael Radford, Massimo Troisi","Biography, Comedy, Drama",7.8
+47,Confessional,Brad T. Gottfred,"Horror, Mystery, Thriller",3.8
+48,The Indian in the Cupboard,Frank Oz,"Drama, Family, Fantasy",6.0
+49,Eye for an Eye,John Schlesinger,"Crime, Drama, Thriller",6.2
+50,Mr. Holland's Opus,Stephen Herek,"Drama, Music",7.3
+51,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Paris Barclay,"Comedy, Crime",6.5
+52,Two if by Sea,Bill Bennett,"Comedy, Crime, Romance",5.3
+53,Bio-Dome,Jason Bloom,Comedy,4.4
+54,Two Bits,James Foley,"Comedy, Drama",6.1
+55,French Twist (Gazon maudit),Josiane Balasko,"Comedy, Drama, Romance",6.4
+56,Friday,F. Gary Gray,"Comedy, Drama",7.2
+57,From Dusk Till Dawn,Robert Rodriguez,"Action, Crime, Horror",7.2
+58,Fair Game,Andrew Sipes,"Action, Romance, Thriller",4.4
+59,Kicking and Screaming,Noah Baumbach,"Comedy, Drama, Romance",6.7
+60,Bed of Roses,Michael Goldenberg,"Drama, Romance",6.1
+61,Big Bully,Steve Miner,"Comedy, Thriller",4.8
+62,Crossing Guard,Tyler Giles,"Short, Comedy",N/A
+63,Juror,Brian Gibson,"Crime, Drama, Thriller",5.7
+64,White Balloon,Jafar Panahi,"Drama, Family",7.6
+65,Antonia's Line (Antonia),Marleen Gorris,"Comedy, Drama",7.4
+66,Once Upon a Time... When We Were Colored,Tim Reid,"Drama, Romance",7.4
+67,Last Summer in the Hamptons,Henry Jaglom,"Comedy, Drama",5.8
+68,Angels and Insects,Philip Haas,"Drama, Romance",6.8
+69,White Squall,Ridley Scott,"Adventure, Drama",6.6
+70,Black Sheep,Penelope Spheeris,Comedy,6.2
+71,Nick of Time,John Badham,"Action, Crime, Drama",6.3
+72,The Journey of August King,John Duigan,Drama,6.5
+73,Mary Reilly,Stephen Frears,"Drama, Horror, Romance",5.8
+74,Vampire in Brooklyn,Wes Craven,"Comedy, Fantasy, Horror",4.7
+75,Beautiful Girls,Ted Demme,"Comedy, Drama, Romance",7.1
+76,Broken Arrow,John Woo,"Action, Adventure, Thriller",6.1
+77,In the Bleak Midwinter,Davide Abbatescianni,"Documentary, Short",N/A
+78,Hate (La Haine),Steve Loter,"Animation, Short, Comedy",N/A
+79,Shopping,Paul W.S. Anderson,"Action, Crime, Drama",5.4
+80,City Hall,Harold Becker,"Crime, Drama, Mystery",6.2
+81,Bottle Rocket,Wes Anderson,"Comedy, Crime, Drama",6.9
+82,Mr. Wrong,Nick Castle,Comedy,3.8
+83,Happy Gilmore,Dennis Dugan,"Comedy, Sport",7.0
+84,The Bridges of Madison County,Clint Eastwood,"Drama, Romance",7.6
+85,Nobody Loves Me (Keiner liebt mich),Doris Dörrie,"Comedy, Drama",7.2
+86,Muppet Treasure Island,Brian Henson,"Action, Adventure, Comedy",6.9
+87,Headless Body in Topless Bar,James Bruce,"Comedy, Crime, Drama",4.8
+88,Braveheart,Mel Gibson,"Biography, Drama, War",8.3
+89,Taxi Driver,Martin Scorsese,"Crime, Drama",8.2
+90,Rumble in the Bronx,Stanley Tong,"Action, Comedy, Crime",6.8
+91,Before and After,Barbet Schroeder,"Crime, Drama, Mystery",6.1
+92,Margaret's Museum,Mort Ransen,Drama,7.2
+93,Happiness Is in the Field,Étienne Chatiliez,Comedy,7.0
+94,If Lucy Fell,Eric Schaeffer,"Comedy, Romance",4.9
+95,Steal Big,Andrew Davis,Comedy,4.7
+96,Race the Sun,Charles T. Kanganis,"Adventure, Comedy, Drama",5.4
+97,The Boys of St. Vincent,John N. Smith,"Biography, Drama",7.5
+98,Boomerang,Reginald Hudlin,"Comedy, Drama, Romance",5.6
+99,Chungking Express,Kar-Wai Wong,"Comedy, Crime, Drama",8.0
+100,Star Maker  The (Uomo delle stelle),N/A,N/A,N/A
+101,Flirting With Disaster,David O. Russell,Comedy,6.7
+102,The NeverEnding Story III,Peter MacDonald,"Adventure, Comedy, Family",3.2
+103,The Silence of the Palace (Saimt el Qusur),N/A,N/A,N/A
+104,Pie in the Sky,Bryan Gordon,"Comedy, Romance",5.8
+105,Angela,Rebecca Miller,Drama,6.3
+106,Frankie Starlight,Michael Lindsay-Hogg,"Drama, Romance, War",6.5
+107,Nueba Yol,Ángel Muñiz,"Comedy, Drama",7.1
+108,Down Periscope,David S. Ward,Comedy,6.2
+109,The Neon Bible,Terence Davies,Drama,6.2
+110,Target,Sandip Ray,Drama,8.1
+111,Up Close and Personal,Steve Drake,Adult,N/A
+112,The Birdcage,Mike Nichols,Comedy,7.2
+113,Shadows (Cienie),Terrell Tannen,"Crime, Drama, Mystery",3.9
+114,Gospa,Jakov Sedlar,"Drama, History",4.0
+115,The Brothers McMullen,Edward Burns,"Comedy, Drama, Romance",6.6
+116,Bad Boys,Michael Bay,"Action, Comedy, Crime",6.8
+117,Amazing Panda Adventure ,Christopher Cain,"Adventure, Drama, Family",5.7
+118,Basketball Diaries,Scott Kalvert,"Biography, Crime, Drama",7.3
+119,An Awfully Big Adventure,Mike Newell,"Comedy, Drama, Romance",5.8
+120,Apollo 13,Ron Howard,"Adventure, Drama, History",7.7
+121,Rob Roy,Michael Caton-Jones,"Adventure, Biography, Drama",6.9
+122,Batman Forever,Joel Schumacher,"Action, Adventure",5.4
+123,Belle de jour,Luis Buñuel,"Drama, Romance",7.6
+124,Beyond Rangoon,John Boorman,"Action, Adventure, Drama",6.5
+125,Blue in the Face,"Paul Auster, Wayne Wang, Harvey Wang",Comedy,6.6
+126,Canadian Bacon,Michael Moore,"Action, Comedy",5.9
+127,Casper,Brad Silberling,"Comedy, Family, Fantasy",6.2
+128,Clockers,Spike Lee,"Crime, Drama, Mystery",6.9
+129,Congo,Frank Marshall,"Action, Adventure, Mystery",5.3
+130,Crimson Tide,Tony Scott,"Action, Drama, Thriller",7.3
+131,Desperado,Robert Rodriguez,"Action, Crime, Drama",7.1
+132,Die Hard: With a Vengeance,John McTiernan,"Action, Adventure, Thriller",7.6
+133,The Doom Generation,Gregg Araki,"Comedy, Crime, Drama",6.1
+134,Feast of July,Christopher Menaul,"Crime, Drama, Mystery",6.1
+135,First Knight,Jerry Zucker,"Action, Adventure, Drama",6.0
+136,Free Willy 2: The Adventure Home,Dwight H. Little,"Adventure, Drama, Family",5.1
+137,Hackers,Iain Softley,"Crime, Drama, Romance",6.2
+138,Jeffrey,Christopher Ashley,"Comedy, Drama",6.8
+139,Johnny Mnemonic,Robert Longo,"Action, Drama, Sci-Fi",5.6
+140,Judge Dredd,Danny Cannon,"Action, Crime, Sci-Fi",5.6
+141,Jury Duty,John Fortenberry,Comedy,4.3
+142,Kids,Larry Clark,Drama,7.0
+143,Living in Oblivion,Tom DiCillo,"Comedy, Drama",7.5
+144,Love & Human Remains,Brian Gibson,"Biography, Drama, Music",7.3
+145,Mad Love,Antonia Bird,"Comedy, Drama, Romance",5.3
+146,Mallrats,Kevin Smith,"Comedy, Romance",7.0
+147,Mighty Morphin Power Rangers: The Movie,Thomas C. Grane,"Documentary, Short",6.3
+148,Moonlight and Valentino,David Anspaugh,"Comedy, Drama, Romance",5.7
+149,Nadja,Michael Almereyda,"Drama, Horror",6.0
+150,Nine Months,Chris Columbus,"Comedy, Romance",5.5
+151,Party Girl,Daisy von Scherler Mayer,"Comedy, Drama, Romance",6.5
+152,Reckless,Norman René,"Comedy, Drama, Fantasy",5.2
+153,Scarlet Letter ,Roland Joffé,"Drama, Romance",5.3
+154,Showgirls,Paul Verhoeven,Drama,5.1
+155,Smoke,Wayne Wang,"Comedy, Drama",7.4
+156,Something to Talk About,Lasse Hallström,"Comedy, Drama, Romance",5.7
+157,Stars Fell on Henrietta ,James Keach,Drama,6.4
+158,Strange Days,Kathryn Bigelow,"Crime, Drama, Sci-Fi",7.2
+159,Umbrellas of Cherbourg ,Jacques Demy,"Drama, Musical, Romance",7.8
+160,Three Wishes,Martha Coolidge,"Drama, Family, Fantasy",6.1
+161,Total Eclipse,Agnieszka Holland,"Biography, Drama, Romance",6.5
+162,To Wong Foo  Thanks for Everything! Julie Newmar,Beeban Kidron,"Comedy, Drama",6.8
+163,Under Siege 2: Dark Territory,Geoff Murphy,"Action, Adventure, Thriller",5.6
+164,Unstrung Heroes,Diane Keaton,"Comedy, Drama",6.7
+165,A Walk in the Clouds,Alfonso Arau,"Drama, Romance",6.7
+166,Waterworld,Kevin Reynolds,"Action, Adventure, Sci-Fi",6.3
+167,White Man's Burden,Desmond Nakano,"Drama, Thriller",5.3
+168,Browning Version,Mike Figgis,Drama,7.2
+169,Bushwhacked,Greg Beeman,"Adventure, Comedy, Crime",5.6
+170,Burnt By the Sun (Utomlyonnye solntsem),Nikita Mikhalkov,"Drama, War",7.8
+171,Before the Rain (Pred dozhdot),Milcho Manchevski,"Drama, Romance, War",7.8
+172,Before Sunrise,Richard Linklater,"Drama, Romance",8.1
+173,Billy Madison,Tamra Davis,Comedy,6.4
+174,Babysitter,Guy Ferland,"Drama, Thriller",4.3
+175,Boys on the Side,Herbert Ross,"Comedy, Drama",6.5
+176,Cure,Peter Horton,"Adventure, Drama",7.7
+177,Circle of Friends,Pat O'Connor,"Drama, Romance",6.6
+178,Clerks,Kevin Smith,Comedy,7.7
+179,Don Juan DeMarco,Jeremy Leven,"Comedy, Drama, Romance",6.7
+180,Disclosure,Barry Levinson,"Drama, Thriller",6.2
+181,Drop Zone,John Badham,"Action, Adventure, Thriller",5.6
+182,Destiny Turns on the Radio,Jack Baran,"Crime, Comedy, Fantasy",4.5
+183,Death and the Maiden,Roman Polanski,"Drama, Mystery, Thriller",7.2
+184,Dolores Claiborne,Taylor Hackford,"Crime, Drama, Mystery",7.4
+185,Dumb & Dumber,"Peter Farrelly, Bobby Farrelly",Comedy,7.3
+186,Eat Drink Man Woman,Ang Lee,"Comedy, Drama, Romance",7.8
+187,Exotica,Atom Egoyan,Drama,7.0
+188,Exit to Eden,Garry Marshall,"Comedy, Crime, Romance",4.3
+189,Ed Wood,Tim Burton,"Biography, Comedy, Drama",7.8
+190,French Kiss,Lawrence Kasdan,"Comedy, Drama, Romance",6.6
+191,Forget Paris,Billy Crystal,"Comedy, Romance",6.5
+192,Far From Home: The Adventures of Yellow Dog,Phillip Borsos,"Adventure, Family",6.3
+193,Farinelli: il castrato,N/A,N/A,N/A
+194,Gordy,Mark Lewis,"Comedy, Drama, Family",3.8
+195,Heavenly Creatures,Peter Jackson,"Biography, Crime, Drama",7.3
+196,Houseguest,Randall Miller,Comedy,5.9
+197,Immortal Beloved,Bernard Rose,"Biography, Drama, Music",7.4
+198,The Hunted,J.F. Lawton,"Action, Drama, Thriller",5.9
+199,I.Q.,Fred Schepisi,"Comedy, Romance",6.2
