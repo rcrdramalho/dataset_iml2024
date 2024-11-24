@@ -61,7 +61,7 @@ movieId,movieName,director,category,imdb_rating
 59,Kicking and Screaming,Noah Baumbach,"Comedy, Drama, Romance",6.7
 60,Bed of Roses,Michael Goldenberg,"Drama, Romance",6.1
 61,Big Bully,Steve Miner,"Comedy, Thriller",4.8
-62,Crossing Guard,Tyler Giles,"Short, Comedy",N/A
+62,Crossing Guard,Tyler Giles,"Short, Comedy",5
 63,Juror,Brian Gibson,"Crime, Drama, Thriller",5.7
 64,White Balloon,Jafar Panahi,"Drama, Family",7.6
 65,Antonia's Line (Antonia),Marleen Gorris,"Comedy, Drama",7.4
@@ -76,8 +76,8 @@ movieId,movieName,director,category,imdb_rating
 74,Vampire in Brooklyn,Wes Craven,"Comedy, Fantasy, Horror",4.7
 75,Beautiful Girls,Ted Demme,"Comedy, Drama, Romance",7.1
 76,Broken Arrow,John Woo,"Action, Adventure, Thriller",6.1
-77,In the Bleak Midwinter,Davide Abbatescianni,"Documentary, Short",N/A
-78,Hate (La Haine),Steve Loter,"Animation, Short, Comedy",N/A
+77,In the Bleak Midwinter,Davide Abbatescianni,"Documentary, Short",5
+78,Hate (La Haine),Steve Loter,"Animation, Short, Comedy",5
 79,Shopping,Paul W.S. Anderson,"Action, Crime, Drama",5.4
 80,City Hall,Harold Becker,"Crime, Drama, Mystery",6.2
 81,Bottle Rocket,Wes Anderson,"Comedy, Crime, Drama",6.9
@@ -99,10 +99,10 @@ movieId,movieName,director,category,imdb_rating
 97,The Boys of St. Vincent,John N. Smith,"Biography, Drama",7.5
 98,Boomerang,Reginald Hudlin,"Comedy, Drama, Romance",5.6
 99,Chungking Express,Kar-Wai Wong,"Comedy, Crime, Drama",8.0
-100,Star Maker  The (Uomo delle stelle),N/A,N/A,N/A
+100,Star Maker  The (Uomo delle stelle),Giuseppe Tornatore,"Drama, Romance",7.3
 101,Flirting With Disaster,David O. Russell,Comedy,6.7
 102,The NeverEnding Story III,Peter MacDonald,"Adventure, Comedy, Family",3.2
-103,The Silence of the Palace (Saimt el Qusur),N/A,N/A,N/A
+103,The Silence of the Palace (Saimt el Qusur),Moufida Tlatli,"Drama",7.4
 104,Pie in the Sky,Bryan Gordon,"Comedy, Romance",5.8
 105,Angela,Rebecca Miller,Drama,6.3
 106,Frankie Starlight,Michael Lindsay-Hogg,"Drama, Romance, War",6.5
@@ -110,7 +110,7 @@ movieId,movieName,director,category,imdb_rating
 108,Down Periscope,David S. Ward,Comedy,6.2
 109,The Neon Bible,Terence Davies,Drama,6.2
 110,Target,Sandip Ray,Drama,8.1
-111,Up Close and Personal,Steve Drake,Adult,N/A
+111,Up Close and Personal,Steve Drake,Adult,5
 112,The Birdcage,Mike Nichols,Comedy,7.2
 113,Shadows (Cienie),Terrell Tannen,"Crime, Drama, Mystery",3.9
 114,Gospa,Jakov Sedlar,"Drama, History",4.0
@@ -192,7 +192,7 @@ movieId,movieName,director,category,imdb_rating
 190,French Kiss,Lawrence Kasdan,"Comedy, Drama, Romance",6.6
 191,Forget Paris,Billy Crystal,"Comedy, Romance",6.5
 192,Far From Home: The Adventures of Yellow Dog,Phillip Borsos,"Adventure, Family",6.3
-193,Farinelli: il castrato,N/A,N/A,N/A
+193,Farinelli: il castrato,Gérard Corbiau,"Period Drama, Bioghaphy, Drama, Music",6.8
 194,Gordy,Mark Lewis,"Comedy, Drama, Family",3.8
 195,Heavenly Creatures,Peter Jackson,"Biography, Crime, Drama",7.3
 196,Houseguest,Randall Miller,Comedy,5.9
